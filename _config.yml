@@ -1,5 +1,5 @@
 username: henryzhao
-baseurl: /StrayBirds
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
