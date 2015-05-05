@@ -1,12 +1,12 @@
-username: minixalpha
+username: henryzhao
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
+title: Henryzhao
 description: 人生到处知何似，应似飞鸿踏雪泥
 theme: midnight
-disqusname: minixalpha
+disqusname: henryzhao
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine
 # those themes are all come from GitHub Pages Themes
