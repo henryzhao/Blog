@@ -4,8 +4,8 @@ markdown: redcarpet
 safe: false
 highlighter: pygments
 title: Henryzhao
-description: 人生到处知何似，应似飞鸿踏雪泥
-theme: midnight
+description: 空负凌云万丈志，一生襟抱未曾开！
+theme: hack
 disqusname: henryzhao
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine
